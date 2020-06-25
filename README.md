@@ -1,4 +1,4 @@
-# currency_app
+# Currency App
 
 A new Flutter project.
 
